@@ -1,6 +1,6 @@
 ##  Octopus and process
 
-![Octopus Deploy and process](/resources/img/howOctopusFitsIn.png "Octopus Deploy and process")
+![Octopus Deploy and process](./resources/img/howOctopusFitsIn.png "Octopus Deploy and process")
 
 
 note:

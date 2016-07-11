@@ -1,6 +1,6 @@
 ##  Exercise: Create a project
 
-![](/resources/img/webdeploy.png)
+![](./resources/img/webdeploy.png)
 
 note:
     Put your speaker notes here.

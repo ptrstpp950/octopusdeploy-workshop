@@ -1,6 +1,6 @@
 ## Copy-paste method
 
-![](/resources/img/update-database-task.png) 
+![](./resources/img/update-database-task.png) 
 
 
 note:
