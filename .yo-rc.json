@@ -1,0 +1,9 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Octopus deploy from Zero to Hero",
+    "packageVersion": "0.1.0",
+    "revealTheme": "moon",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}
